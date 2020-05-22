@@ -60,7 +60,7 @@
     });*/
 
     $('.project-1').magnificPopup({
-        type: 'image',
+        type: 'ajax',
         tLoading: 'Loading image #%curr%...',
         mainClass: 'mfp-img-mobile',
         gallery: {
