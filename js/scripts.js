@@ -73,11 +73,11 @@
             tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
         },
         items: [
-            { src: 'https://github.com/mohacsi13/enfeszkem/blob/gh-pages/assets/img/portfolio/project-1/1.JPG' },
-            { src: 'https://github.com/mohacsi13/enfeszkem/blob/gh-pages/assets/img/portfolio/project-1/2.JPG' },
-            { src: 'https://github.com/mohacsi13/enfeszkem/blob/gh-pages/assets/img/portfolio/project-1/3.JPG' },
-            { src: 'https://github.com/mohacsi13/enfeszkem/blob/gh-pages/assets/img/portfolio/project-1/4.JPG' },
-            { src: 'https://github.com/mohacsi13/enfeszkem/blob/gh-pages/assets/img/portfolio/project-1/5.JPG' }
+            { src: 'assets/img/portfolio/project-1/1.JPG' },
+            { src: 'assets/img/portfolio/project-1/2.JPG' },
+            { src: 'assets/img/portfolio/project-1/3.JPG' },
+            { src: 'assets/img/portfolio/project-1/4.JPG' },
+            { src: 'assets/img/portfolio/project-1/5.JPG' }
         ]
     });
 
