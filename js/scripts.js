@@ -60,13 +60,15 @@
     });*/
 
     $('.project-1').magnificPopup({
-        type: 'ajax',
+        type: 'image',
         tLoading: 'Loading image #%curr%...',
         mainClass: 'mfp-img-mobile',
         gallery: {
             enabled: true,
             navigateByImgClick: true,
-            preload: [0, 1]
+            tPrev: 'Previous',
+            tNext: 'Next',
+            preload: [3, 3]
         },
         image: {
             tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
